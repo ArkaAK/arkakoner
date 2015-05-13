@@ -1,0 +1,164 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Arka Koner | Qualification</title>
+	<link rel="shortcut icon" href="C:\Users\LENOVO\Pictures\Arka\ak.ico"/>  
+	<link rel="stylesheet" href="main.css"/>
+</head>
+<body>
+	<div id="site_root">
+		<div id="in_line_content">
+				<header id="header">
+					<h1 ><a id="font_0"href="http://arkakoner.site50.net/index.html">Arka Koner</a></h1>
+					<h6 style="line-height: 1.2em;" class="font_6">Under-Graduate Student (B.tech Course)</h6>
+					<h6 style="line-height: 1.2em;" class="font_6">Department of Chemical Engineering</h6>
+					<h6 style="line-height: 1.2em;" class="font_6">Indian Institute of Technology, Kharagpur</h6>		
+
+
+
+
+				</header>
+				<nav id="top_menu">
+					<ul>
+						<li >
+							<a id="li1" href="http://arkakoner.site50.net/index.html"> HOME</a></li>
+						<li ><a id="li2" class="x"href="http://arkakoner.site50.net/qualification.html">Qualification and Skills</a></li>
+						<li><a id="li3"href="http://arkakoner.site50.net/education.html"> Education</a></li>
+						<li><a id="li4" href="http://arkakoner.site50.net/contact.html" >About Me</a></li>
+					</ul>
+				</nav>
+			</div>
+				
+
+
+		<section id="main_section1">
+	 		<h2 id="q">Qualification and </br>Accomplishments:</h2>
+			<article id="article5">
+			
+					<p id="subheader">
+					1. SECONDARY EXAMINATION:
+					</p>
+					<p class="font_8">Madhyamik is a centralized examination conducted by the West Bengal Board of Secondary Education in West Bengal, India, at the end of the 10th standard of high school. Compulsory subjects are first language, second language, physical science (combined with physics and chemistry), life science, mathematics, history and geography</p>
+		
+					<p style="font-size: 16px;" class="font_8"><span class="color_14"><span style="font-weight:bold;"><span style="font-size:16px;"> 2012</span></span></span></p>
+
+					<p style="font-size: 16px;" class="font_8"><span class="color_14"><span style="font-weight:bold;"><span style="font-size:16px;"> 93% marks( 647 out of 700)</span></span></span></p>
+					<p id="subheader">
+					2. HIGHER SECONDARY EXAM :
+					</p>
+					<p class="font_8">West Bengal Council of Higher Secondary Education is the West Bengal state government administered autonomous examining authority for the Standard 12 examination (or Higher secondary level or Pre-university level examination) of West Bengal, India.</p>
+					<p style="font-size: 16px;" class="font_8"><span class="color_14"><span style="font-weight:bold;"><span style="font-size:16px;"> 2014</span></span></span></p>
+
+					<p style="font-size: 16px;" class="font_8"><span class="color_14"><span style="font-weight:bold;"><span style="font-size:16px;"> 89% marks (444 out of 500)</span></span></span></p>
+
+			</article>
+			<article id="article6">
+			
+					<p id="subheader">
+					KISHORE VAIGYANIK PROTSAHAN YOJANA:
+					</p>
+					<p class="font_8">The Kishore Vaigyanik Protsahan Yojana (KVPY) is an on-going National Program of Fellowship in Basic Sciences, initiated and funded by the Department of Science and Technology, Government of India, to attract exceptionally highly motivated students for pursuing basic science courses and research career in science.</br>The objective of the program is to identify students with talent and aptitude for research; help them realize their academic potential; encourage them to take up research careers in Science, and ensure the growth of the best scientific minds for research and development in the country.</p>
+		
+					
+					<p style="font-size: 16px;" class="font_8"><span class="color_14"><span style="font-weight:bold;"><span style="font-size:16px;"> 2013-14</span></span></span></p>
+					<p style="font-size: 16px;" class="font_8"><span class="color_14"><span style="font-weight:bold;"><span style="font-size:16px;"> SX Stream : Fellowship and Mentorship Award</span></span></span></p>
+
+					<p style="font-size: 16px;" class="font_8"><span class="color_14"><span style="font-weight:bold;"><span style="font-size:16px;"> All India Rank: 37 (General Category)</span></span></span></p>
+					
+			</article>
+			<article id="article7">
+			
+					<p id="subheader">
+					Indian Institute of Technology JEE : 
+					</p>
+					<p class="font_8">The Indian Institutes of Technology Joint Entrance Examination (IIT-JEE) was an annual engineering college entrance examination in India. It was used as the sole admission test by the fifteen Indian Institutes of Technology (IITs), Indian School of Mines (also known as ISM Dhanbad, now known as IIT Dhanbad) and IIT BHU. The examination was organised each year by one of the various IITs, using a round robin rotation pattern. It had a very low admission rate (about 10,000 in 500,000 in 2011).In 2013 it was replaced by the two-phase Joint Entrance Examination :JEE Main and JEE Advanced(IITJEE)</p>
+		
+					
+					<p style="font-size: 16px;" class="font_8"><span class="color_14"><span style="font-weight:bold;"><span style="font-size:16px;"> 2014</span></span></span></p>
+
+					<p style="font-size: 16px;" class="font_8"><span class="color_14"><span style="font-weight:bold;"><span style="font-size:16px;"> All India Rank: 1633 (General Category)</span></span></span></p>
+					
+			</article>
+			<div id="board">
+						<span id="s1">BOARD EXAM</a></span>
+					</div>
+					<div id="kvpy">
+						<span id="s1">KVPY</span>
+					</div>
+					<div id="iitjee">
+						<span id="s1">IITJEE</span>
+					</div>
+					<div id="interest">
+						</br>
+							<img alt="" style="width: 10px; height: 25px; object-fit: cover;" src="http://static.wixstatic.com/media/41d000_3808c6b3dfe45f87fdeb0753a7bc7068.png_srz_p_10_25_75_22_0.50_1.20_0.00_png_srz">
+					</div>
+					<h2 id="i">Interest</h2>
+					<article id="article8">
+						<p style="font-size: 16px;" class="font_8"><span class="color_14"><span style="font-weight:bold;"><span style="font-size:16px;"> Playing Cricket </br>
+						 Photography </br>
+						 Photoshop </br>
+						 swimming </br>
+						 Debating </br>
+						 Playing Football </br>
+						 Surfing Internet </br>
+						 Painting and Drawing </br>
+						 Quiz </br>
+						</span></span></span></p>
+					</article>
+					<div id="skil">
+						<br>
+							<img alt="" style="width: 40px; height: 35px; object-fit: cover;" src="http://static.wixstatic.com/media/41d000_ae3788010efa1505e73c841ca9354f83.png_srz_p_37_32_75_22_0.50_1.20_0.00_png_srz">
+					</div>
+					<h2 id="ak">Skills</h2>
+					<article id="article9">
+						<p class="font_8">I always want to be updated with modern age and accordingly I update my Soft Skills</p>
+
+						<p style="font-size: 16px;" class="font_8"><span class="color_14"><span style="font-weight:bold;"><span style="font-size:16px;"> PROGRAMMING : C </br>
+						 HTML </br>
+						 PHP  </br>
+						 POWER-POINT </br>
+						 Q-BASIC </br>
+						 PHTOSHOP </br>
+						 PICASSA </br>
+						 MICROSOFT WORD </br>
+						 MICROSOFT EXCEL </br>
+						</span></span></span></p>
+					</article>
+
+		</section>
+		<footer id="site_footrer2">
+					<div id="div1">
+						<img style="width: 20px; height: 30px; object-fit: contain;" src="http://static.wixstatic.com/media/41d000_923783bd05e9f6dfd45827c8952a3e5b.png_srb_p_20_30_75_22_0.50_1.20_0.00_png_srb">
+						<span style="line-height: 1.2em;"><font color="#ffffff"><strong>Call:</strong></font></span>
+						<p style="line-height: 1.2em;" class="font_8"><font color="#ffffff">837830708</font></p>
+						<p style="line-height: 1.2em;" class="font_8"><font color="#ffffff">9475590360</font></p>
+					</div>
+					<div id="div2">
+						<img alt="" style="width: 32px; height: 19px; object-fit: contain;" src="http://static.wixstatic.com/media/41d000_234c0c521a8017939900379e6a25b05c.png_srb_p_32_19_75_22_0.50_1.20_0.00_png_srb">
+						<span style="line-height: 1.2em;"><strong>Contact:</strong></span>
+						<p style="line-height: 1.2em;" class="font_8"><font color="#ffffff">arkakoner@gmail.com</font></p>
+					</div>
+					<div id="div3">
+						<img alt="" style="width: 20px; height: 20px; object-fit: cover;" src="http://static.wixstatic.com/media/41d000_cf9e919aa5cc99ea091720072272954b.png_srz_p_20_20_75_22_0.50_1.20_0.00_png_srz">
+						<span style="line-height: 1.8em;"><strong>Follow me</strong></span>
+					</div>
+					<div id="div4">
+						<p style="line-height: 1.2em;" class="font_8"><font color="#ffffff">© 2015 by Arka Koner.</font></p>
+						<p style="line-height: 1.2em;" class="font_8"><font color="#ffffff">All rights reserved</font></p>
+					</div>
+					<div id="fb">
+						<a href="https://www.facebook.com/arka.koner?fref=ts" target="_blank">
+							<img alt style="width:16px;height:16px;object-fit:cover;" src="http://static.wixstatic.com/media/da00086a27cc2c52ec7a11ec468c4d29.wix_mp_srz_p_16_16_75_22_0.50_1.20_0.00_wix_mp_srz">
+						</a>
+					</div>
+					<div id="twit">
+						<a href="https://plus.google.com/u/0/114035919396773221696/posts" target="_blank">
+							<img style="width:16px;height:16px;object-fit:cover;" src="http://static.wixstatic.com/media/608e7725939b0eda16493c462180552c.wix_mp_srz_p_16_16_75_22_0.50_1.20_0.00_wix_mp_srz">
+						</a>
+					</div>
+				</footer>
+			</div>
+			</html>
+					
+		
