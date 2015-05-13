@@ -1,0 +1,121 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Arka Koner- About Me</title>
+	<link rel="shortcut icon" href="C:\Users\LENOVO\Pictures\Arka\ak.ico"/>  
+	<link rel="stylesheet" href="main.css"/>
+</head>
+<body>
+
+		<div id="site_root">
+			<div id="in_line_content">
+				<header id="header">
+					<h1 ><a id="font_0"href="http://arkakoner.site50.net/index.html">Arka Koner</a></h1>
+					<h6 style="line-height: 1.2em;" class="font_6">Under-Graduate Student (B.tech Course)</h6>
+					<h6 style="line-height: 1.2em;" class="font_6">Department of Chemical Engineering</h6>
+					<h6 style="line-height: 1.2em;" class="font_6">Indian Institute of Technology, Kharagpur</h6>		
+
+
+
+
+				</header>
+				<nav id="top_menu">
+					<ul>
+						<li >
+							<a id="li1" href="http://arkakoner.site50.net/index.html"> HOME</a></li>
+						<li ><a id="li2"href="http://arkakoner.site50.net/qualification.html">Qualification and Skills</a></li>
+						<li><a id="li3"href="http://arkakoner.site50.net/education.html"> Education</a></li>
+						<li><a id="li4" class="x"href="http://arkakoner.site50.net/contact.html" >About Me</a></li>
+					</ul>
+				</nav>
+			</div>
+				
+
+			<section id="main_section1">
+					<h2 id="c">About Me :</h2>
+					<article id="article10">
+					<p class="font_8">The journey of life came on 8th October, 1995.This was the day when my parents blessed me with the name Arka Koner.I am the single sibling in my family and hence had a sense of responsibilty towards my parents.I hail from Burdwan, West Bengal.<br><br>
+
+I had my schooling in Burdwan itself at Burdwan Municipal High School.This institution played a very important role in shaping my character and preparing me for my future.In 2014 I completed my schooling.<br><br>
+
+Coaching for JEE was taken by me at FIITJEE Durgapur Study Centre which is a complete package for one appearing for JEE.I owe a lot to this institute.<br><br>
+
+Presently, I am a first year Undergraduate student at Indian Institute of Technology,Kharagpur in the department of Chemical Engineering enrolled in its B.Tech course.<br></p>
+</article>
+<h2 id="p">Contact Me :</h2>
+					<article id="article12">
+					<p class="font_8"><span style="text-decoration:underline;"><span style="font-weight:bold;"><span style="font-size:17px;"><BR>Phone No:<br></p>
+					<p class="font_8">
+						1. 9475590360<br>
+						2. 8337830708</br>
+					</p>
+					<p class="font_8"><span style="text-decoration:underline;"><span style="font-weight:bold;"><span style="font-size:17px;"><br>Email ID:<br></p>
+					<p class="font_8">
+						arkakoner@gmail.com</br>
+					</p>
+				</article>
+		<h2 id="w">Work Experience:</h2>
+			<article id="article11">
+				<p id="subheader">
+					<br>Societies:<br>
+					</p>
+					<p class="font_8"><span style="font-weight:bold;"><span style="font-size:18px;"><br>
+						1. KSHITIJ Web Team and Design Team
+						<Br><br>
+							2. The Street : IIT Kgp Finance Club <br><br>
+							3. Student Welfare Group : IIT Kgp<br><br></p>
+					<p id="subheader">
+					Start-Up:
+					</p>
+					<p class="font_8"><br>
+						Currently, I with my two friends Avijit Ghosh and Nairit Dutta are going to launch a new portal "BOOKFUNDA" for KGPians to buy and sell their old books.
+					</p>
+					<p class="font_8"><span style="color:rgb(208, 123, 11);"><span style="font-weight:bold;"><span style="font-size:20px;"><br>BOOKFUNDA :</p>
+					<p class="font_8">
+						Bookfunda, an initiative by IIT KGP students, is a one stop solution for all your old book troubles. Buy and sell books at the prices you've always desired. 
+<BR>Currently, there is no good way of obtaining
+old books at a reasonable price.
+New books are expensive.
+Old books obtained from the Tech Market
+are at the mercy of the booksellers. Often
+the prices are unjustified.
+We want to provide a platform for buying
+and selling books via a portal..</br>
+					</p><br>
+					<a href="http://bookfunda.in/"target="_blank"> BookFunda  (Click here to go to the page)</a>
+					
+				</article>
+				</div>
+<footer id="site_footrer3">
+					<div id="div1">
+						<img style="width: 20px; height: 30px; object-fit: contain;" src="http://static.wixstatic.com/media/41d000_923783bd05e9f6dfd45827c8952a3e5b.png_srb_p_20_30_75_22_0.50_1.20_0.00_png_srb">
+						<span style="line-height: 1.2em;"><font color="#ffffff"><strong>Call:</strong></font></span>
+						<p style="line-height: 1.2em;" class="font_8"><font color="#ffffff">837830708</font></p>
+						<p style="line-height: 1.2em;" class="font_8"><font color="#ffffff">9475590360</font></p>
+					</div>
+					<div id="div2">
+						<img alt="" style="width: 32px; height: 19px; object-fit: contain;" src="http://static.wixstatic.com/media/41d000_234c0c521a8017939900379e6a25b05c.png_srb_p_32_19_75_22_0.50_1.20_0.00_png_srb">
+						<span style="line-height: 1.2em;"><strong>Contact:</strong></span>
+						<p style="line-height: 1.2em;" class="font_8"><font color="#ffffff">arkakoner@gmail.com</font></p>
+					</div>
+					<div id="div3">
+						<img alt="" style="width: 20px; height: 20px; object-fit: cover;" src="http://static.wixstatic.com/media/41d000_cf9e919aa5cc99ea091720072272954b.png_srz_p_20_20_75_22_0.50_1.20_0.00_png_srz">
+						<span style="line-height: 1.8em;"><strong>Follow me</strong></span>
+					</div>
+					<div id="div4">
+						<p style="line-height: 1.2em;" class="font_8"><font color="#ffffff">© 2015 by Arka Koner.</font></p>
+						<p style="line-height: 1.2em;" class="font_8"><font color="#ffffff">All rights reserved</font></p>
+					</div>
+					<div id="fb">
+						<a href="https://www.facebook.com/arka.koner?fref=ts" target="_blank">
+							<img alt style="width:16px;height:16px;object-fit:cover;" src="http://static.wixstatic.com/media/da00086a27cc2c52ec7a11ec468c4d29.wix_mp_srz_p_16_16_75_22_0.50_1.20_0.00_wix_mp_srz">
+						</a>
+					</div>
+					<div id="twit">
+						<a href="https://plus.google.com/u/0/114035919396773221696/posts" target="_blank">
+							<img style="width:16px;height:16px;object-fit:cover;" src="http://static.wixstatic.com/media/608e7725939b0eda16493c462180552c.wix_mp_srz_p_16_16_75_22_0.50_1.20_0.00_wix_mp_srz">
+						</a>
+					</div>
+				</footer>
+			
