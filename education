@@ -1,0 +1,105 @@
+
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Arka Koner- Education</title>
+	<link rel="shortcut icon" href="C:\Users\LENOVO\Pictures\Arka\ak.ico"/>  
+	<link rel="stylesheet" href="main.css"/>
+</head>
+<body>
+
+		<div id="site_root">
+			<div id="in_line_content">
+				<header id="header">
+					<h1 ><a id="font_0"href="http://arkakoner.site50.net/index.html">Arka Koner</a></h1>
+					<h6 style="line-height: 1.2em;" class="font_6">Under-Graduate Student (B.tech Course)</h6>
+					<h6 style="line-height: 1.2em;" class="font_6">Department of Chemical Engineering</h6>
+					<h6 style="line-height: 1.2em;" class="font_6">Indian Institute of Technology, Kharagpur</h6>		
+
+
+
+
+				</header>
+				<nav id="top_menu">
+					<ul>
+						<li >
+							<a id="li1" href="http://arkakoner.site50.net/index.html"> HOME</a></li>
+						<li ><a id="li2"href="http://arkakoner.site50.net/qualification.html">Qualification and Skills</a></li>
+						<li><a id="li3"class="x"href="http://arkakoner.site50.net/education.html"> Education</a></li>
+						<li><a id="li4" href="http://arkakoner.site50.net/contact.html" >About Me</a></li>
+					</ul>
+				</nav>
+			</div>
+				
+				
+
+
+
+				<section id="main_section1">
+					<h2 id="h">Education :</h2>
+				
+				<article id="article4">
+				</br></br>
+					<p id="subheader">
+					1. Burdwan Municipal High School:
+					</p>
+					<p class="font_8">Burdwan Municipal High School had its auspicious inception in the year 1883. Since then began its splendid journey along the avenue of education. This age-old school of over 100 years has been successfully able to produce many legendary personalities of singular talents who have left indelible mark in the pages of long history of the school. It is one of the best schools in West Bengal, claiming an exalted position of dignity and diction.</p>
+					<p><span style="font-weight:bold;"><span style="font-size:17px;">Secondary and Higher Secondary Course</p>
+					<p class="font_8"><span style="text-decoration:underline;"><span style="font-weight:bold;"><span style="font-size:16px;">Activity</p>
+					<p class="font_8">1. Inter School Quiz Competition
+</br>
+2. Inter School Cricket Tournament</p>	
+					<p class="font_8"><span style="text-decoration:underline;"><span style="font-weight:bold;"><span style="font-size:16px;">Time:</span></span></span> <span style="font-size:14px;">April 1, 2001 to May 2014</span></p>
+				</br></br>
+
+					<p id="subheader">
+2. Indian Institute of Technology, Kharagpur :					</p>
+					<p class="font_8"><span style="text-decoration:underline;"><span style="font-weight:bold;"><span style="font-size:16px;">Course:</span></span></span> <span style="font-size:16px;"><span style="font-weight:bold;">Chemical Engineering (4 years B.Tech Course)</span></p>
+					<p class="font_8">The department was established in 1951. The first post-graduate degree course with specialisation in Combustion engineering and Fuel Economy was started in 1952 under the leadership of Professor Weissweller. At present, the department is deeply involved in activities in the field of Pollution Control, Transport Processes, Coal and Petroleum Technology, and Membrane Processes. The department has always been engaged in research sponsored by notable organisations like L&T, SAIL, TISCO, ONGC, BHEL, IOC, CMPDE and many more covering areas.</p>
+					<p class="font_8"><span style="text-decoration:underline;"><span style="font-weight:bold;"><span style="font-size:16px;">Activity</p>
+					<p class="font_8">1. Inter Hall Football Competition
+</br>
+					2. Inter Hall Cricket Tournament
+					</br>
+					3. Inter Hall Dramatics</p>
+					<p class="font_8"><span style="text-decoration:underline;"><span style="font-weight:bold;"><span style="font-size:16px;">April 17, 2014</p>
+				</br></br>
+				</article>
+
+				</section>
+				
+				<footer id="site_footrer">
+					<div id="div1">
+						<img style="width: 20px; height: 30px; object-fit: contain;" src="http://static.wixstatic.com/media/41d000_923783bd05e9f6dfd45827c8952a3e5b.png_srb_p_20_30_75_22_0.50_1.20_0.00_png_srb">
+						<span style="line-height: 1.2em;"><font color="#ffffff"><strong>Call:</strong></font></span>
+						<p style="line-height: 1.2em;" class="font_8"><font color="#ffffff">837830708</font></p>
+						<p style="line-height: 1.2em;" class="font_8"><font color="#ffffff">9475590360</font></p>
+					</div>
+					<div id="div2">
+						<img alt="" style="width: 32px; height: 19px; object-fit: contain;" src="http://static.wixstatic.com/media/41d000_234c0c521a8017939900379e6a25b05c.png_srb_p_32_19_75_22_0.50_1.20_0.00_png_srb">
+						<span style="line-height: 1.2em;"><strong>Contact:</strong></span>
+						<p style="line-height: 1.2em;" class="font_8"><font color="#ffffff">arkakoner@gmail.com</font></p>
+					</div>
+					<div id="div3">
+						<img alt="" style="width: 20px; height: 20px; object-fit: cover;" src="http://static.wixstatic.com/media/41d000_cf9e919aa5cc99ea091720072272954b.png_srz_p_20_20_75_22_0.50_1.20_0.00_png_srz">
+						<span style="line-height: 1.8em;"><strong>Follow me</strong></span>
+					</div>
+					<div id="div4">
+						<p style="line-height: 1.2em;" class="font_8"><font color="#ffffff">© 2015 by Arka Koner.</font></p>
+						<p style="line-height: 1.2em;" class="font_8"><font color="#ffffff">All rights reserved</font></p>
+					</div>
+					<div id="fb">
+						<a href="https://www.facebook.com/arka.koner?fref=ts" target="_blank">
+							<img alt style="width:16px;height:16px;object-fit:cover;" src="http://static.wixstatic.com/media/da00086a27cc2c52ec7a11ec468c4d29.wix_mp_srz_p_16_16_75_22_0.50_1.20_0.00_wix_mp_srz">
+						</a>
+					</div>
+					<div id="twit">
+						<a href="https://plus.google.com/u/0/114035919396773221696/posts" target="_blank">
+							<img style="width:16px;height:16px;object-fit:cover;" src="http://static.wixstatic.com/media/608e7725939b0eda16493c462180552c.wix_mp_srz_p_16_16_75_22_0.50_1.20_0.00_wix_mp_srz">
+						</a>
+					</div>
+				</footer>
+		
+	</div>
+</html>
