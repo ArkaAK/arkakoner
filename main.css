@@ -283,8 +283,8 @@ color: white;}
     text-align: left;
 }
 #q{
-  font: normal normal normal 60px 'Noticia Text',serif;
-  color: #064291;
+  font: normal normal bold 60px 'Noticia Text',serif;
+  color: #0C6121;
   position: absolute;
   top: 25px;
   width:610px;
@@ -353,7 +353,7 @@ left: 150px;}
   text-align: center;
 }
 #i{
-  font: normal normal bold 20px 'Noticia Text',serif;
+  font: normal normal bold 24px 'Noticia Text',serif;
   color: #064291;
   position: absolute;
   top: 155px;
@@ -386,7 +386,7 @@ left: 644px;
   text-align: center;
 }
 #ak{
-  font: normal normal bold 20px 'Noticia Text',serif;
+  font: normal normal bold 24px 'Noticia Text',serif;
   color: #064291;
   position: absolute;
   top: 510px;
